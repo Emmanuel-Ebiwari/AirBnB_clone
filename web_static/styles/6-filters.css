@@ -68,6 +68,7 @@
     border: 1px solid #DDDDDD;
     border-radius: 4px;
     box-sizing: inherit;
+    z-index: 100;
 }
 .locations .popover{
     padding: 20px 0 20px 30px;
